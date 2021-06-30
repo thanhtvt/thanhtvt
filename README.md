@@ -11,7 +11,7 @@ An AI enthusiast but not yet graduated.
 ### Glad you came here to witness the fight 😆!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=thanhtvt.visitor-badge)  
 - 👨‍🎓 I am a student at [UET-VNU](https://uet.vnu.edu.vn/), an AI enthusiast and I would love to become a ML engineer.  
 - 🚀 The reason why I fall in love with AI is [this video](https://www.youtube.com/watch?v=Qy2Z2TWAt6A). Since then, I always wanted to become a man who capable of making that cute little robot :3  
-- 👨🏻‍💻 I'm currently learning new things and very happy to join any projects.
+- 👨🏻‍💻 I'm currently learning new things and very eager to join any AI related projects.
 - 📫 You can reach me through: [trantrongthanhhp@gmail.com](mailto:trantrongthanhhp@gmail.com). 
   
 ### My stats 📈
