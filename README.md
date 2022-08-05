@@ -8,7 +8,7 @@ An AI enthusiast but not yet graduated.
 
 <img align="right" alt="GIF" src="https://i.imgur.com/F86buw3.jpeg" width="340" height="200" />  
 
-### Glad you came here to witness the fight 😆!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=thanhtvt.visitor-badge)  
+### Glad you came here to witness the fight 😆!  
 - 👨‍🎓 I am a student at [UET-VNU](https://uet.vnu.edu.vn/), an AI enthusiast and I would love to become a ML engineer.  
 - 🚀 The reason why I fall in love with AI is [this video](https://www.youtube.com/watch?v=Qy2Z2TWAt6A). Since then, I always wanted to become a man who capable of making that cute little robot :3  
 - 👨🏻‍💻 I'm currently learning new things and very eager to join any AI related projects.
@@ -18,7 +18,6 @@ An AI enthusiast but not yet graduated.
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanhtvt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtvt&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=6"/>
 </p>
 
 <!--
